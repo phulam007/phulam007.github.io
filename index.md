@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
    <head>
       <link href = "https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css"
@@ -12,7 +11,6 @@
          });
       </script>
    </head>
-   
    <body>
       <form id = "form1" runat = "server">
          <div id = "dialogMsg" title = "First JqueryUI Example">
