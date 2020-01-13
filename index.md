@@ -10,8 +10,5 @@
       <div><textarea></textarea></div>
    </body>
       <script type = "text/javascript">
-         $(function () {
-            $('#dialogMsg').dialog();
-         });
       </script>
 </html>
