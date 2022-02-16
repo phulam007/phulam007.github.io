@@ -1,36 +1,3 @@
-Skip to content
-Why GitHub? 
-Team
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-Sign in
-Sign up
-daniellewisDL
-/
-streamlit-cheat-sheet
-Public
-Code
-Issues
-1
-Pull requests
-2
-Actions
-Projects
-Wiki
-Security
-Insights
-streamlit-cheat-sheet/app.py /
-@daniellewisDL
-daniellewisDL Update app.py
-Latest commit ad3d677 on 9 Oct, 2021
- History
- 4 contributors
-@daniellewisDL@arnaudmiribel@nathancarter@akrolsmir
-304 lines (242 sloc)  7.78 KB
-   
 """
 Streamlit Cheat Sheet
 App to summarise streamlit docs v1.0.0
@@ -325,15 +292,4 @@ DeltaGenerator.add_rows(data)
 
 if __name__ == '__main__':
     main()
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
